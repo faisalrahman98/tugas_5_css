@@ -1,0 +1,19 @@
+.div_menu{
+    background-color: black;
+    margin-bottom: 5px;
+}
+
+.menu{
+    color: white;
+}
+
+.slider-div{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
